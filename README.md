@@ -4,7 +4,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1113F7&width=435&separator=%3C&lines=Hi+There!+%F0%9F%91%8B;+I'm+Mohammed+EL+MACHTI+!%3CCloud+%26+Network+Engineer" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A passionate Cloud & DevOps from Morocco 🇨🇦</h3>
+<h3 align="center">A passionate Cloud & DevOps from Morocco MA</h3>
 
 <br/>
 
