@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=m0h4jir.m0h4jir" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohammed+EL MACHTI!;" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1113F7&width=435&separator=%3C&lines=Hi+There!+%F0%9F%91%8B;+I'm+Mohammed+EL+MACHTI+!%3CCloud+%26+Network+Engineer" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate Cloud & DevOps from Morocco 🇨🇦</h3>
 
 <br/>
 
@@ -27,7 +27,7 @@
   <a href="https://linkedin.com/in/elmachti" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://m0h4jir.github.io" target="_blank">
+  <a href="https://www.credly.com/users/elmachti/badge" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
